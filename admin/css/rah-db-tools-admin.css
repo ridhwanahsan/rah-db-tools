@@ -1,0 +1,68 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.rah-db-tools-table-container {
+	margin-top: 20px;
+	border: 1px solid #ccd0d4;
+	background: #fff;
+	padding: 0;
+	overflow-x: auto;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.rah-db-tools-table-container table {
+	width: 100%;
+	border-collapse: collapse;
+	table-layout: auto;
+}
+
+.rah-db-tools-table-container th,
+.rah-db-tools-table-container td {
+	padding: 12px;
+	border-bottom: 1px solid #eee;
+	text-align: left;
+	vertical-align: top;
+	line-height: 1.5;
+}
+
+.rah-db-tools-table-container th {
+	font-weight: 600;
+	white-space: nowrap;
+	background-color: #f8f9fa;
+	border-bottom: 2px solid #ddd;
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+
+.rah-db-tools-table-container td {
+	min-width: 150px;
+	max-width: 400px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.rah-db-tools-table-container td:hover {
+	white-space: normal;
+	word-wrap: break-word;
+	overflow: visible;
+	background-color: #fff;
+	position: relative;
+	z-index: 5;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.rah-db-tools-table-container tr:nth-child(even) {
+	background-color: #fcfcfc;
+}
+
+.rah-db-tools-table-container tr:hover td {
+	background-color: #f0f0f1;
+}
+
+/* Specific styling for hover cell to override row hover */
+.rah-db-tools-table-container tr:hover td:hover {
+	background-color: #fff;
+}
