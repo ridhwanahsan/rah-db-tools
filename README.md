@@ -55,10 +55,18 @@ Essential for site migrations and domain changes.
 
 | Feature | Description |
 | :--- | :--- |
-| **Dashboard** | Comprehensive overview of database size and health. |
-| **Data Viewer** | Clean, scrollable table view for inspecting raw data. |
-| **Cleanup** | Simple checkboxes to remove junk data instantly. |
-| **SQL Runner** | A secure editor for running custom database queries. |
+| **Dashboard** | Comprehensive overview of database size and health.
+                |<img width="1683" height="626" alt="image" src="https://github.com/user-attachments/assets/7d3fd5de-48dc-47a9-a031-a467ba4256ce" />
+
+| **Data Viewer** | Clean, scrollable table view for inspecting raw data. 
+                  |<img width="1692" height="761" alt="image" src="https://github.com/user-attachments/assets/b19dc0ee-0ae0-469f-ad5e-5778d75adc55" />
+
+| **Cleanup** | Simple checkboxes to remove junk data instantly. 
+              |<img width="1437" height="345" alt="image" src="https://github.com/user-attachments/assets/552bf06a-914d-4b5d-a8d4-952dee039720" />
+
+| **Scheduler** | Schedule automatic database cleanup and optimization tasks.. 
+                 | <img width="868" height="501" alt="image" src="https://github.com/user-attachments/assets/b8acac75-81e4-48dc-baa5-c0033fc47c7e" />
+
 
 ---
 
