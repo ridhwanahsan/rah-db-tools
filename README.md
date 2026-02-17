@@ -54,27 +54,27 @@ Essential for site migrations and domain changes.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot-1.png" alt="Dashboard - Database Health Overview" width="600">
+  <img src="https://github.com/user-attachments/assets/7d3fd5de-48dc-47a9-a031-a467ba4256ce" alt="Dashboard - Database Health Overview" width="600">
   <br>
   <em>Dashboard: Comprehensive overview of database size and health.</em>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-2.png" alt="Database Viewer - Table List" width="600">
+  <img src="https://github.com/user-attachments/assets/b19dc0ee-0ae0-469f-ad5e-5778d75adc55" alt="Database Viewer - Table List" width="600">
   <br>
   <em>Database Viewer: List of all tables with optimization options.</em>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-3.png" alt="Table Data - Inspect Rows" width="600">
+  <img src="https://github.com/user-attachments/assets/552bf06a-914d-4b5d-a8d4-952dee039720" alt="DB Cleanup - One Click Optimization" width="600">
   <br>
-  <em>Table Data: Browse table content with clean formatting.</em>
+  <em>Cleanup: Simple checkboxes to remove junk data instantly.</em>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-4.png" alt="DB Cleanup - One Click Optimization" width="600">
+  <img src="https://github.com/user-attachments/assets/b8acac75-81e4-48dc-baa5-c0033fc47c7e" alt="Scheduler - Automated Tasks" width="600">
   <br>
-  <em>Cleanup: Simple checkboxes to remove junk data instantly.</em>
+  <em>Scheduler: Schedule automatic database cleanup and optimization tasks.</em>
 </p>
 
 <p align="center">
